@@ -1,0 +1,14 @@
+git init //Git repository kurduk.
+
+Staging Area ve Local Repository giti initle kurduğum alanlardır. 
+
+Local repo bilgisayardaki depolama alanıdır. 
+
+git status //Loacal reporsitory e taşıdığımız dosyalarla çalışma dosyalarımız arasındaki farklari      			gösteren komuttur.
+
+git add dosyaadi //dosyayı staging area kısmına taşımamız sağlar.
+
+git rm --cached dosyaadi //staging areadaki dosyayı geri sileriz.(alırız) 
+
+git add . //Bütün klasörü staging areaya ya taşırız. 
+

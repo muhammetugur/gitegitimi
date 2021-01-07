@@ -1,0 +1,12 @@
+Bu işlem değişiklikleri kimin yaptığı için önemlidir. 
+
+git --verison //kullandığımız git versiyonunu öğreniriz 
+
+git config --list //kullanıcıları listeler 
+
+git config --global user.name "kullanıcı adı" //kendimize global kullanıcı oluşturduk 
+git config --global user.email "emailadres"  //kendi emailimizi tanıttık 
+
+Kullanıcı adı ve email güncellemek için yukarıdaki komutları tekrardan girmek yeterlidir. 
+
+

@@ -1,0 +1,15 @@
+Git Geri Alma 
+
+git log --oneline //log dosyasını daha sade hale getirir.
+
+git reset //önckei versiyona dönmek için kullanılır. 
+
+git reset id --hard //döndüğümüz komitten sonraki versiyonları siler 
+
+git reset id --soft //Bütün oluşturulan dosyaları staging areayaya taşıyor. 
+
+git revert id //İstediğimiz versiyonda yapılan değişikliği silmek için kullanılır.
+
+git commit --amend -m "Mesaj" //Commit ettiğimiz versiyondaki mesajı değiştirmek için kullanırız. 
+
+git commit --amend //Son komitin içine dahil olur 

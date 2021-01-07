@@ -1,0 +1,7 @@
+Commit işlemi staging area daki dosyaları local repo ya gönderme işlemidir.
+
+git commit -m "istenilen mesajla kaydetme" //commit komutu 
+
+git log //Versiyonları görüntelemek için kullanırız.
+
+

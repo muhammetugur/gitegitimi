@@ -1,0 +1,10 @@
+pwd //Dosya yolumuzu gösterie 
+ls //Dizin içindeki dosyaları gösterir 
+cd //İstediğimiz dizine gideriz
+ls -a //Gizli dosyaları gösterir. 
+cd ..//Bir önceki dizine gideriz. geri gideriz. 
+mkdir //Klsör oluşturmak için kullanırız. 
+touch //Dizin oluşturmak için kullanırız. 
+vi //Terminal editörüdür. Dosya içini terminalde düzenlemek için kullanırız. 
+rm //Dosya silme komutudur. 
+

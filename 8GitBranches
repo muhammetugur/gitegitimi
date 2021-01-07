@@ -1,0 +1,19 @@
+Branc dal anlamına gelmektedir. Yönetimi kolaylaştırmak için kullanılır. 
+
+Genel olarak master branch ana branch olarak kullanmak mantıklıdır.
+
+git branch dal1 //dal1 branch i oluşturuldu.
+
+git branch -a //Branch leri listeler.
+
+git checkout dal1 //dal1 branch ine geçiş yaptık.
+
+git checkout -b feature1 //Branch olusturuldu ve geçiş yapıldı 
+
+git branch -d dal1//dal1 branch ini silme komutunu 
+
+git branch -D dal1 //Yukarıdaki komutta hata alırsak kullanırız 
+
+git merge branch1 //Bulunduğumuz brancle branch1 dalı birleştirildi. 
+
+
