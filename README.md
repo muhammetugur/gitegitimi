@@ -1,0 +1,2 @@
+# gitegitimi
+Egitim amacli acilmistir
